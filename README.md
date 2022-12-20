@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guillermomontalbanmartinez" alt="guillermomontalbanmartinez" /></a> </p>
 
-- 🌱 I’m currently learning **C#,.Net,**
+- 🌱 .Net Developer at Hiberus**
 
 - 📫 How to reach me **guillermosysti@gmail.com**
 
